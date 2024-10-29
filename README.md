@@ -1,1 +1,2 @@
-# tugas-pfs-pertemuan-5
+# Admin-Landing-Page-jQuery-Exercise-
+Admin Landing Page jQuery (Exercise)
